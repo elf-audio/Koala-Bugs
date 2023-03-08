@@ -1,6 +1,6 @@
 # Koala Bug Tracker
 
-Here is where you can report bugs in koala via the issues tab.
+Here is where you can report bugs in koala via the issues tab above.
 
 *WARNING* it is experimental for now and may end up being ignored if there's too much spam, duplicates or feature requests.
 
